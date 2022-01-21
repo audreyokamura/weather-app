@@ -1,0 +1,96 @@
+body {
+  /*background: #c2daff;*/
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/025/240/original/background-image1.jpg?1642700870");
+  background-position: left;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  color: #eb5e0b;
+}
+
+.outside-card {
+  border-color: #fff;
+  border-radius: 10px;
+  border-width: 5px;
+  margin: 60px auto;
+  padding: 30px;
+}
+
+.enter-city {
+  display: inline;
+  width: 80%;
+}
+
+.search-button {
+  display: inline;
+}
+
+#position-button {
+  background: #eb5e0b;
+  color: #fff;
+  display: inline;
+}
+
+.current-city {
+  width: 70%;
+}
+
+.current-time {
+  color: #c2daff;
+  font-weight: 600;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+#general-weather {
+  color: #0d6efd;
+  font-weight: 600;
+}
+
+#more-info {
+  color: #c2daff;
+  font-weight: 600;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.current-temp {
+  padding-left: 30px;
+  width: 30%;
+}
+
+.unit {
+  color: #eb5e0b;
+  text-decoration-line: none;
+}
+
+.main-temp {
+  color: #eb5e0b;
+  font-weight: 600;
+}
+
+.main-temp-card {
+  padding-right: 0;
+  width: 100px;
+}
+
+.main-icon {
+  color: #c2daff;
+  font-size: 50px;
+  padding-bottom: 15px;
+}
+
+.icons {
+  color: #c2daff;
+  font-size: 30px;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+
+.week-day {
+  color: #0d6efd;
+  font-weight: 600;
+}
+
+.prev-temp {
+  color: #0d6efd;
+}
